@@ -1,5 +1,5 @@
-# python-ecommerce-website
-# About
+# About python-ecommerce-website
+
 Python Ecommerce Webshop with Django
 
 # Before anything:
