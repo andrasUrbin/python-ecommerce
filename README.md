@@ -2,6 +2,8 @@
 
 Python Ecommerce Webshop with Django
 
+This repository contains the virtual environment as well as the source code, but it's only for my own comfort and it'll be removed once the product gets to release!
+
 # Before anything:
 
 Run this script to create the neccessary virtual environment: 
